@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MockingTestSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringBootWebApplicationBootstrapJqueryApplication.class, args);
+		SpringApplication.run(MockingTestSpringBootApplication.class, args);
 	}
 }
